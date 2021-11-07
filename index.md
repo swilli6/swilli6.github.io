@@ -22,14 +22,13 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 ## Projects
 
-[My Master's thesis in Linguistics](https://trepo.tuni.fi/bitstream/handle/10024/82499/gradu05000.pdf?sequence=1&isAllowed=y)
+* [My Master's thesis in Linguistics](https://trepo.tuni.fi/bitstream/handle/10024/82499/gradu05000.pdf?sequence=1&isAllowed=y)
+	* I studied the changes occurring in the speech of Australian English speakers living in Finland
+* [My Command-Line Tools course GitHub repository](https://github.com/swilli6/cmdline-course)
 
 ## Some recent knitting projects 
 
-[Acid Rain](https://ravel.me/Iseult/7yrpv3)
-
-[Potteneer](https://ravel.me/Iseult/7o2st7)
-
-[Norwegian Wood Squirrel Mama Mittens](https://ravel.me/Iseult/efdptm)
-
-[owlet](https://ravel.me/Iseult/nr81l0) 
+* [Acid Rain](https://ravel.me/Iseult/7yrpv3)  
+* [Potteneer](https://ravel.me/Iseult/7o2st7)  
+* [Norwegian Wood Squirrel Mama Mittens](https://ravel.me/Iseult/efdptm)  
+* [owlet](https://ravel.me/Iseult/nr81l0)   
