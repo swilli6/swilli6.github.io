@@ -4,7 +4,11 @@ layout: default
 
 ## Introduction
 
-I have a MA degree in Linguistics from the University of Tampere (2011). I am now studying at the University of Helsinki in the Linguistic Diversity and Digital Humanities MA program (Language Technology track), expecting to graduate in 2023. In my free time I'm an avid knitter and sewist and I make most of my clothes, and those of my 7-year-old son (sometimes my husband, too!)
+I have a MA degree in Linguistics from the University of Tampere (2011). I am now studying at the University of Helsinki in the **Linguistic Diversity and Digital Humanities MA program** (Language Technology track), expecting to graduate in 2023. 
+
+In my free time I'm an avid knitter and sewist and I make most of my clothes, and those of my 7-year-old son (sometimes my husband, too!)
+
+[Here is my CV](/assets/docs/CV_SallaWilliams.pdf)
 
 ## Find me on
 
